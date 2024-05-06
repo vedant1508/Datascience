@@ -41,3 +41,21 @@ object Hello {
     return (side * side)
   }
 }
+
+
+
+// object Hello {
+//   def main(args: Array[String]): Unit = {
+//     println("Hello, World!")
+//     add()
+//   }
+  
+//   def add(): Unit = {
+//     println("Enter Number 1: ")
+//     var a = scala.io.StdIn.readLine().toInt
+//     println("Enter Number 2: ")
+//     var b = scala.io.StdIn.readLine().toInt
+//     val sum = a + b
+//     println("Addition is: " + sum)
+//   }
+// }
